@@ -29,7 +29,7 @@
     "jquery": "*"
   },
   "dependencies": {
-    "slick-carousel": "^1.6.0"
+    "slick-carousel": "git+https://85d4b4f5a1e8be0acbac437cb662ce0d7d49fb11:x-oauth-basic@github.com/selucaciu/slick.git"
   },
   "devDependencies": {
     "jquery": "*",
